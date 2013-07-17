@@ -44,3 +44,4 @@ setup(
 )
 
 
+os.chdir(origdir)
